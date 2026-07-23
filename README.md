@@ -1,1 +1,0 @@
-# desafio-logica-Rankear pokemons
