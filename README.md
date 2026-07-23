@@ -1,1 +1,1 @@
-# desafio-logica-Calculadora-de-partidas-Rankeadas
+# desafio-logica-Rankear pokemons
